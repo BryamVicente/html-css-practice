@@ -1,0 +1,14 @@
+.header{
+    text-align: center;
+    color: white;
+}
+
+.body{
+    background-color: rgb(72, 166, 187);
+}
+
+.whole-div {
+    border-style: double;
+    color: white;
+}
+
